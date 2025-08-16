@@ -1,2 +1,3 @@
-Boston Housing: Exploratory Analysis, Linear Regression, Random Forest
-This project explores the classic Boston Housing dataset to predict median home value (MEDV) using several features describing neighborhoods and housing characteristics. It includes data exploration, preprocessing, multicollinearity checks, baseline linear modeling, a tree-based model, and model interpretability using Partial Dependence Plots (PDPs).
+# Boston Housing Price Prediction
+
+This project explores the classic **Boston Housing dataset** to predict the **median home value (MEDV)** using various features describing neighborhoods and housing characteristics. The project includes exploratory data analysis, preprocessing, multicollinearity checks, baseline linear modeling, tree-based models, and model interpretability using Partial Dependence Plots (PDPs).
